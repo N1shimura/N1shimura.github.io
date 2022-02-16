@@ -1,0 +1,57 @@
+.header {
+    
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    border: 3px solid rgb(12, 13, 12);
+    border-radius: 3px;
+}
+
+.icon {
+
+}
+
+.title {
+    
+}
+
+.main-menu {
+    display: flex;
+    text-align: left;
+    flex-flow: column;
+    border: 3px solid rgb(13, 127, 24);
+    border-radius: 3px;
+    margin-top: 50px;
+}
+
+.login:a:visited {
+    color: rgb(89, 19, 133);
+}
+
+.login:a:active {
+    color: rgb(153, 15, 15)
+}
+
+.login:a:link {
+    color: rgb(20, 9, 135)
+}
+
+.login {
+    color: white;
+    background-color: rgb(12, 13, 12);
+}
+
+.registration {
+    color: white;
+    background-color: rgb(12, 13, 12);
+}
+
+.menu {
+    display: flex;
+    text-align: right;
+    flex-direction: column;
+}
+
